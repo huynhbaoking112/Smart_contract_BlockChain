@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Project\\BlockChain\\contracts\\Token.sol": {
-      "lastModificationDate": 1733453185396,
-      "contentHash": "9a2197bdd963905f6662e0c9c1bcdb35",
+      "lastModificationDate": 1733462047590,
+      "contentHash": "c394caf0f3eb7967c269339c1f16c749",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.7.6",
@@ -32,6 +32,7 @@
         "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol",
         "openzeppelin-solidity/contracts/access/Ownable.sol",
         "openzeppelin-solidity/contracts/token/ERC20/ERC20Burnable.sol",
+        "hardhat/console.sol",
         "hardhat/console.sol"
       ],
       "versionPragmas": [
